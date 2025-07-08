@@ -25,7 +25,7 @@
 	fgrep -w -f lvrs_samples.txt gwas_headshape_PCall_edited.txt > gwas_headshape_PCall_edited.lvrs
 	cut -f 1 gwas_headshape_PCall_edited.lvrs > gwas_headshape_PCall_edited.lvrs.inds
 
-	# 1) Extract subset of individuals and filter VCF file for SNPs with <10% missing dat
+	# 1) Extract subset of individuals with phenotype data and filter VCF file for SNPs with <10% missing dat
 
 	bcftools view --force-samples -S $gwaspath/gwas_headshape_PCall_edited.lvrs.inds \
 	$snppath/all.SNPs.raw.vcf.gz | bgzip -c > $gwaspath/all.SNPs.raw.inds.vcf.gz 
@@ -42,4 +42,5 @@
 	
 
 	# 3 	# Combine files and convert genotypes to binary PED format # First from VCF to PLINK format
-	plink --vcf $gwaspath/all.SNPs.filt.jaw.imp.vcf.gz --make-bed --out $gwaspath/all.SNPs.filt.jaw.imp
+	cd /cluster/scratch/posingh/gwas/gemma_dentition
+	sbatch -n 1 --mem-per-cpu=10000 --time=12:00:00 --wrap='plink --vcf /cluster/scratch/posingh/gwas/gemma_dentition/all.SNPs.filt2.colour.imp.vcf.gz --make-bed --out /cluster/scratch/posingh/gwas/gemma_dentition/all.SNPs.filt2.dentition.imp'
