@@ -1,0 +1,30 @@
+#!/bin/bash
+
+## LVRS GWAS on dentition phenotypes (four)
+## pooja.singh09@gmail.com
+## dec 2024 
+
+
+# 2_gwasdentition.sbatch
+	#SBATCH -J "2_gwascol"
+	#SBATCH --mem-per-cpu=8000
+	#SBATCH --time=24:00:00
+	#SBATCH -n 1
+	#SBATCH -o 2_gwascol.log
+	#SBATCH -e 2_gwascol.err
+
+	# Change working directory to global scratch
+	cd /cluster/scratch/posingh/gwas/gemma_dentition
+	source /cluster/project/gdc/shared/stack/GDCstack.sh
+	module load module load gemma/0.98.5
+
+	#snppath=/cluster/work/gdc/shared/p929/victoriaGenomes/vcf_pnye3/2023_old_without_GQ/
+	gwaspath=/cluster/scratch/posingh/gwas/gemma_dentition
+
+	# Replace plink .fam file with phenotypes (GEMMA only reads second and 6th column, and 6th column onwards should be the phenotype
+	
+	#sed 1d $gwaspath/gwas_dentition_phenotypes_v1.lvrs.NA  | awk '{print $1,$1,0,0,0,$2,$3,$4,$5}' > $gwaspath/all.SNPs.filt2.dentition.imp.fam
+
+	# Run GEMMA: first compute relatedness matrix
+
+	gemma -bfile $gwaspath/all.SNPs.filt2.dentition.imp -gk 1 -o all.SNPs.filt2.dentition.imp
