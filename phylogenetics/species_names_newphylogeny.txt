@@ -1,0 +1,121 @@
+Row.names	species_name.x	short
+103528	103528	Pundamilia nyererei	PunNye
+103578	103578	Harpagochromis cavifrons	HarCav
+103673	103673	Pundamilia sp. deepwater	PunDee
+103720	103720	Enterochromis paropius	EntIPar
+103767	103767	Enterochromis sp. supramacrops red tail	EntIISupR
+103778	103778	Yssichromis sp. cf. supramacrops	YssCfSup
+10448	10448	Ptyochromis sp. deepwater rock sheller	PtyDeeRoc
+104626	104626	Enterochromis coprologus I	EntICopI
+104661	104661	Enterochromis sp. new invasive	EntINewIn
+104689	104689	Double-stripe group tanaos	DouStrTan
+104852	104852	Enterochromis coprologus II	EntIICopBl
+105005	105005	Incertae sedis vanoijeni	IncVan
+10619	10619	Neochromis rufocaudalis	NeoRuf
+10631	10631	Paralabidochromis chilotes	ParChil
+106525	106525	Paralabidochromis plagiodon	ParPla
+106641	106641	Labrochromis sp. demersal	LabDem
+10791	10791	Mbipia sp. red carp	MbiRecCar
+10794	10794	Ptyochromis sp. xenognathus rocks	PtyXenRoc
+109209	109209	Lithochromis sp. scraper	LitScr
+109320	109320	Lithochromis sp. yellow chin	LitYelChi
+109432	109432	Astatotilapia sp. nubila swamp	AstNubSwa
+109768	109768	Enterochromis cinctus E	EntIcic
+109841	109841	Platytaeniodus sp. new degeni	EntPlatNew
+11082	11082	Paralabidochromis sauvagei	ParSau
+11084	11084	Paralabidochromis sp. short snout scraper	ParShoSno
+11297.PunPundMak	11297.PunPundMak	Pundamilia pundamilia	PunPun
+11313	11313	Pundamilia sp. pink anal fin	PunPinAna
+11317	11317	Mbipia lutea	MbiLut
+11322	11322	Mbipia mbipi	MbiMbi
+11537	11537	Astatotilapia sp. nubila rocks	AstNubRoc
+11601	11601	Paralabidochromis sp. rock riponianus	ParRocRip
+11729.PunPundPyt	11729.PunPundPyt	Pundamilia sp. pundamilia-like	PunPunLik
+11807	11807	Paralabidochromis chromogynos	ParChr
+11965	11965	Hoplotilapia retrodens	HopRet
+11992.PunNyerPyt	11992.PunNyerPyt	Pundamilia sp. nyererei-like	PunNyeLik
+12157	12157	Pundamilia macrocephala	PunMac
+12319	12319	Neochromis greenwoodi	NeoGre
+12570	12570	Pundamilia azurea	PunAzu
+130704	130704	Harpagochromis sp. torpedo kribensis	HarProTor
+130706	130706	Lipochromis parvidens	LipPar
+130707	130707	Haplochromis sp. lividus-like	HapLivLik
+130710	130710	Prognathochromis sp. cf. gowersi	ProCfGow
+130711	130711	Prognathochromis sp. flavipinnis-like	ProFlaLik
+130712	130712	Pyxichromis orthostoma	PyxOrt
+130715	130715	Haplochromis sp. ruby green	HapRubGre
+130716	130716	Astatotilapia sp. cherry fin	AstCheFin
+130722	130722	Prognathochromis sp. argenteus-like	ProArgLik
+130728	130728	Incertae sedis sp. Gigati	IncSp
+130732	130732	Pyxichromis sp. Gigati	PyxSp
+130734	130734	Astatotilapia sp. flameback	AstFla
+130735	130735	Psammochromis sp. acidens-like	PsaAciLik
+130736	130736	Harpagochromis sp. martini-like	HarMarLik
+13074	13074	Neochromis gigas	NeoGig
+130743	130743	Prognathochromis sp. dentex-like	ProDenLik
+130747	130747	Incertae sedis sp. blue biter	ParBluBit
+130770	130770	Paralabidochromis crassilabris	ParCra
+130785	130785	Lipochromis sp. matumbi hunter	LipMatHun
+130786	130786	Prognathochromis perrieri	ProPer
+13100	13100	Haplochromis sp. purple yellow	HapPurYel
+131282	131282	Astatotilapia burtoni	AstBur
+13269	13269	Incertae sedis sp. Lithochromis/Pundamilia	IncLitPun
+13281	13281	Lithochromis sp. orange	LitOra
+13393	13393	Lithochromis sp. pseudoblue	LitPse
+13405	13405	Labrochromis mawepili	LabMaw
+13499	13499	Paralabidochromis cyaneus	ParCya
+13653	13653	Pundamilia macrocephala	PunMac_2
+13926	13926	Yssichromis argens	YssArg
+14125	14125	Pundamilia sp. deepwater giant	PunDeeGia
+14128	14128	Harpagochromis vonlinnei	HarVon
+14245	14245	Ptyochromis sp. striped rock sheller	PtyStrRoc
+14295	14295	Enterochromis sp. new invasive	EntINewIn_2
+14350	14350	Neochromis sp. unicuspid scraper	NeoUniScr
+156645	156645	Incertae sedis sp. thick skin	IncThiSki
+158795	158795	Paralabidochromis victoriae	ParVic
+161476	161476	Prognathochromis sp. dichrourus complex	ProDicCom
+161543	161543	Harpagochromis sp. cf. pachycephalus	HarPac
+22441	22441	Platytaeniodus degeni	PlaDeg
+2800	2800	Lithochromis rufus	LitRuf
+2801	2801	Lithochromis rubripinnis	LitRub
+71001	71001	Thoracochromis pharyngalis	ThoPha
+78773	78773	Lithochromis xanthopteryx	LitXan
+78887	78887	Pundamilia sp. orange anal nyererei	PunOraAna
+79542	79542	Yssichromis sp. cf. fusiformis	YssCfFus
+79561	79561	Yssichromis plumbus	YssPlu
+79609	79609	Ptyochromis xenognathus	PtyXen
+79623	79623	Ptyochromis fischeri	PtyFis
+79628	79628	Macropleurodus bicolor	MacBic
+80054	80054	Labrochromis sp. cf. theliodon	LabThe
+80805	80805	Labrochromis sp. brown narrow snout	LabBroNar
+81343	81343	Astatotilapia stappersi	AstSta
+83726	83726	Pundamilia sp. Luanso	PunLua
+84393	84393	Pundamilia sp. red head	PunRedHea
+Bi10	Bi10	Neochromis sp. long black	NeoLonBla
+E_A	E_A	Enterochromis antleter	EntIAnt
+Ga2	Ga2	Paralabidochromis sp. orange anal rockpicker	ParOraAna
+Ga33	Ga33	Paralabidochromis sp. sky blue picker	LitSkyBlu
+H7	H7	Pundamilia sp. yellow azurea	PunYelAzu
+IG104	IG104	Yssichromis laparogramma	YssLap
+IG291	IG291	Pundamilia igneopinnis	PunIgn
+J2	J2	Pundamilia sp. cf. nyererei	PunCfNye
+J7	J7	Pundamilia sp. pyxichromis-like	PunPyxLike
+Ju22	Ju22	Pundamilia sp. big blue red	PunBigBlu
+Ki30	Ki30	Paralabidochromis sp. pseudorockpicker	ParPseRoc
+Lishmaeli	Lishmaeli	Labrochromis ishmaeli	LabIsh
+Ma343	Ma343	Incertae sedis sp. large red deepwater	IncLarRed
+Ma38	Ma38	Lipochromis cryptodon	LipCry
+Ma71	Ma71	Double-stripe group thereuterion	DouStrTher
+N_O	N_O	Neochromis omnicaeruleus	NeoOmn
+Na15	Na15	Neochromis sp. yellow anal scraper	NeoYelAna
+Na4	Na4	Incertae sedis bwathondii	IncBwa
+ORH	ORH	Harpagochromis sp. howesi complex	HarHowCom
+Ppell	Ppell	Prognathochromis sp. cf. pellegrini	PyxOrt_2
+TMB3	TMB3	Gaurochromis iris	GauIri
+TNB1	TNB1	Tridontochromis sp.	TriSp
+TSO3	TSO3	Incertae sedis sp. blue microdon	TriBluMic
+TSO4	TSO4	Gaurochromis hiatus	GauHia
+Y_P	Y_P	Yssichromis pyrrhocephalus	YssPyr
+Ypiceatus	Ypiceatus	Yssichromis piceatus	YssAstPic
+ZuOS115	ZuOS115	Mbipia sp. short scraper	MbiShoScr
+ZuOS148	ZuOS148	Neochromis sp. eastern blue scraper	NeoEastBS
