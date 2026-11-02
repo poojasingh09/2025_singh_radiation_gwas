@@ -5,7 +5,7 @@
 ## background allelele freq is normalised by the distritbution of MAF of top RWAS outliers
 ## not sure how much sense this makese before then obviously you will get less enrichment since most of the
 ## genomes of lvrs species is from congo and nile, and rwas allales are high freq, so if most background is high freq 
-## then it will be enriched for congo/nile both ancestry too
+## then it will be enriched for congo/nile both ancestry; and therefore the rwas set is less likely to be enriched
 ## enrichment as calculated as > 75th and >95th percentile of null dist.
 
 # ============================================================
